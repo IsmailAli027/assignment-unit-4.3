@@ -23,6 +23,7 @@ Update the `cart.js` file to do the following:
   - take an input parameter for a string `item`
   - add the new item to the global array `basket`. 
   - return `true` indicating the item was added
+  // done
 
 - Create a function called `listItems`. It should:
   - loop over the items in the `basket` array
