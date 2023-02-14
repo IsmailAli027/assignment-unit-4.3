@@ -25,8 +25,10 @@ function listItems(){
 listItems();
 
 
-function empty()
-
+function empty(item){
+  console.log('in emply', item);
+  basket.pop(item)
+}
 
 
 
